@@ -1,1 +1,2 @@
 # settlenet-traderApp
+# settlenet-walletApp
